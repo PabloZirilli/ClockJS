@@ -1,4 +1,5 @@
-.card {width: 50%;text-align: center;margin: 5% 25%;}
+#clock {max-width: 420px;}
+.card {width: 50%;text-align: center;margin: 2% 25%;}
 h5, h1, .h5, .h1, p, .p {margin: 0 !important;padding: 0 !important;}
 p {display: inline !important;}
 
